@@ -16,6 +16,12 @@
 
 
 <h3>What does 'package main' mean?</h3>
+- A packackage in Golang is basically the project or workspace
+- There are two different types of packages, an executeable and a reusable.
+- An executable file is a file that returns, once compiled, a file that can be run by the computer.
+- Reusable packages are more like code dependencies or libraries
+- the "main" naming convention is used only when defining an executable file in Golang.
+    
 
 <h3>How is a function defined?</h3>
 
