@@ -21,6 +21,7 @@
 - An executable file is a file that returns, once compiled, a file that can be run by the computer.
 - Reusable packages are more like code dependencies or libraries
 - the "main" naming convention is used only when defining an executable file in Golang.
+- Every executable package must have a function called main
     
 
 <h3>How is a function defined?</h3>
